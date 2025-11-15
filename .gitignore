@@ -1,0 +1,13 @@
+.env
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+*.pdf
+*.pptx
+~$*.pptx
+*.ipynb
+
+Stanford_Admin_Guide/
+environment.yaml
